@@ -1,7 +1,13 @@
-# wefinex
+# BaseGetX
 
-A new Flutter project.
-
+Project flutter example getX base.
+Folder: base
+- lang
+- repository
+- routers
+- services
+-shared
+-ui
 ## Getting Started
 
 This project is a starting point for a Flutter application.
